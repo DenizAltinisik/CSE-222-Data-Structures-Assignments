@@ -1,0 +1,15 @@
+Electronics Shop Inventory Report
+Generated on: 25 MARCH 2024
+--------------------------------------------
+| No. | Category | Name | Price | Quantity |
+--------------------------------------------
+| 1 | TV | LG OLED55 | $800.0 | 30 |
+| 2 | Smart Phone | Samsung S21 Black | $500.0 | 250 |
+| 3 | Laptop | Dell XPS 13 | $1200.0 | 50 |
+| 4 | Smart Watch | Apple Watch Series | $399.0 | 75 |
+| 5 | Headphones | Sony WH-1000XM4 | $250.0 | 100 |
+--------------------------------------------
+Summary:
+Total number of devices: 5
+Total inventory value: 263925.0
+End of report

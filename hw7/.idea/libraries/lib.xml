@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/CSE222 Data Structures/Homeworks/HW7/javafx-sdk-22.0.1/lib" />
+      <root url="file:////wsl$/Ubuntu-22.04/home/deniz2169/javafx-sdk/javafx-sdk-22.0.1/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:////wsl$/Ubuntu-22.04/home/deniz2169/javafx-sdk/javafx-sdk-22.0.1/lib" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file:////wsl$/Ubuntu-22.04/home/deniz2169/javafx-sdk/javafx-sdk-22.0.1/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/CSE222 Data Structures/Homeworks/HW7/javafx-sdk-22.0.1/lib" recursive="false" />
+  </library>
+</component>
